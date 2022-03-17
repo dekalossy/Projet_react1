@@ -5,7 +5,7 @@ const Home = () => {
     return (
         <div className="Home">
             <Navigation/> 
-            <h1>Home</h1>
+            <h3>Bienvenue..</h3>
             <Countries/>
         </div>
     )
